@@ -1,5 +1,3 @@
-# Input-Data-ESP32-Web-Server-using-Arduino-IDE
-
 ## Project Overview
 
 We'll look at two comparable cases. The first example is demonstrated in the accompanying figure.
@@ -66,6 +64,6 @@ For that, create three forms:
     input3: <input type="text" name="input3"> 
     <input type="submit" value="Submit">  </form>
     
-In HTML, the <form> tag is used to create an HTML form for user input. In our case, the form should contain an input field and a submit button.
+In HTML, the `<form>` tag is used to create an HTML form for user input. In our case, the form should contain an input field and a submit button.
 
 ![enter image description here](https://i.postimg.cc/jSKsNTK3/input-web-browser-2.webp)
